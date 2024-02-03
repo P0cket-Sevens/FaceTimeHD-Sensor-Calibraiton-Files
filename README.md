@@ -6,8 +6,11 @@ The files were extracted using the following instructions:  https://github.com/p
 
 Installation:
 1. After you've installed the FaceTime Linux Driver, go to the release page and either download each individual DAT file or download the zip file "FacetimeHD_Sensor_Calibration.zip".
+
 2. If you've downloaded the ZIP file, extract the individal DAT files from the ZIP file.
+
 3. Move the DAT filse to the facetimehd firmware directory using the following command:  sudo mv ~/Downloads/*.dat /lib/firmware/facetimehd/
+
 4. Optional step:  enter the following commands to confirm the DAT files were copied properly:
 
 cd /lib/firmware/facetimehd
