@@ -1,4 +1,4 @@
-# FaceTimeHD-dat-files
+# FaceTimeHD Sensor Calibraiton Files
 
 These files are the FaceTime Sensor Calibration files extracted from the Windows Bootcamp Drivers.  These files should correct the colors of your Apple FaceTime camera on Linux.
 
