@@ -11,6 +11,7 @@ Installation:
 4. Optional step:  enter the following commands to confirm the DAT files were copied properly:
 
 cd /lib/firmware/facetimehd
+
 ls -la
 
 You should see all 4 DAT files in the folder.
